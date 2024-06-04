@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RepositoriesDotnet\\ASP.NET_Core_WebApp\\ASP.NET_WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6829186-ED9F-4078-89CF-BD0D59639C68}|ASP.NET_WebApp\\ASP.NET_WebApp.csproj|d:\\repositoriesdotnet\\asp.net_core_webapp\\asp.net_webapp\\asp.net_webapp\\asp.net_webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6829186-ED9F-4078-89CF-BD0D59639C68}|ASP.NET_WebApp\\ASP.NET_WebApp.csproj|solutionrelative:asp.net_webapp\\asp.net_webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ASP.NET_WebApp",
+              "DocumentMoniker": "D:\\RepositoriesDotnet\\ASP.NET_Core_WebApp\\ASP.NET_WebApp\\ASP.NET_WebApp\\ASP.NET_WebApp.csproj",
+              "RelativeDocumentMoniker": "ASP.NET_WebApp\\ASP.NET_WebApp.csproj",
+              "ToolTip": "D:\\RepositoriesDotnet\\ASP.NET_Core_WebApp\\ASP.NET_WebApp\\ASP.NET_WebApp\\ASP.NET_WebApp.csproj",
+              "RelativeToolTip": "ASP.NET_WebApp\\ASP.NET_WebApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T18:32:39.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
